@@ -1,3 +1,6 @@
 primeiro Commit TESTE
 
 Segundo commit 
+
+
+branch auxiliar
